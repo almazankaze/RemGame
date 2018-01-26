@@ -20,7 +20,17 @@
         "74c6c6e4-91bd-4f3d-893c-e562f9f2116c",
         "7a7606ad-35ce-4947-97a8-ede9ca873e9b",
         "302665c0-8209-4d59-88d4-985f745c6070",
-        "b009beb4-e60a-44ab-ade8-05faf4f4d077"
+        "b009beb4-e60a-44ab-ade8-05faf4f4d077",
+        "7989d53a-3e36-44ad-ab55-87ffc69d232c",
+        "ad8dd6f2-5e9a-42ea-a7ae-a25c347a7890",
+        "0a4025bd-d7ea-4305-a3ea-180afe6a6a10",
+        "797630d8-a243-4f25-b107-87ea509c126f",
+        "c5f20936-7960-4378-afa5-26bd915c1de4",
+        "d8fd78c7-40a5-45ec-b175-ac0a64e1fbfe",
+        "f94e2bfa-1f20-4f29-955a-758009273012",
+        "872adae9-683f-4838-a406-d96db4ce1da5",
+        "8c69fcc1-85b1-40de-a708-79b7d3d51487",
+        "eeec52e4-c076-4dad-bbd2-21d03103f819"
     ],
     "filterType": "GMSprite",
     "folderName": "mainCharacter",
