@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "0a4025bd-d7ea-4305-a3ea-180afe6a6a10",
+            "Value": {
+                "id": "0a1a32ea-0229-4402-b3ad-54eb0f5381c1",
+                "resourcePath": "sprites\\mega_jump_hair\\mega_jump_hair.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0a8130de-622d-4c10-b4e6-0f1e22c7940f",
             "Value": {
                 "id": "4bcd3942-d064-4e1b-a355-87c55e9da1b4",
@@ -703,6 +711,22 @@
             }
         },
         {
+            "Key": "797630d8-a243-4f25-b107-87ea509c126f",
+            "Value": {
+                "id": "b12b951e-949c-485f-9bca-3aa763081c96",
+                "resourcePath": "sprites\\mega_slide_hair\\mega_slide_hair.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "7989d53a-3e36-44ad-ab55-87ffc69d232c",
+            "Value": {
+                "id": "511102b3-c6b3-4091-b31a-a9ed5e9097e0",
+                "resourcePath": "sprites\\mega_Stand_hair\\mega_Stand_hair.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7a7606ad-35ce-4947-97a8-ede9ca873e9b",
             "Value": {
                 "id": "2ca3a25e-0755-40dc-8e23-f10d789bd22e",
@@ -783,6 +807,14 @@
             }
         },
         {
+            "Key": "872adae9-683f-4838-a406-d96db4ce1da5",
+            "Value": {
+                "id": "223d8d9e-0b69-458f-b2fe-ce88231ad4e8",
+                "resourcePath": "sprites\\mega_climb_hair\\mega_climb_hair.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "89246233-4111-4591-a75f-6b435d4464a3",
             "Value": {
                 "id": "a3fbb953-83a4-4478-ba3e-91a61a748090",
@@ -804,6 +836,14 @@
                 "id": "b5934afc-057f-4cbd-b570-6ba768b7baa8",
                 "resourcePath": "views\\8b56f30f-ba57-4a0a-8af1-392ed3a282c3.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "8c69fcc1-85b1-40de-a708-79b7d3d51487",
+            "Value": {
+                "id": "0e965cac-711a-4d51-bbec-f7b53884aec4",
+                "resourcePath": "sprites\\meag_ClimbShoot_hair\\meag_ClimbShoot_hair.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -927,6 +967,14 @@
             }
         },
         {
+            "Key": "ad8dd6f2-5e9a-42ea-a7ae-a25c347a7890",
+            "Value": {
+                "id": "695c1921-a717-461b-8756-5538981c9ee7",
+                "resourcePath": "sprites\\mega_walk_hair\\mega_walk_hair.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "b009beb4-e60a-44ab-ade8-05faf4f4d077",
             "Value": {
                 "id": "3c518528-dc23-4865-a3f9-847f0241811c",
@@ -1012,6 +1060,14 @@
                 "id": "b659a0ea-d5b4-479f-8e73-1aa62525e048",
                 "resourcePath": "views\\c382b955-3a0c-41b4-a721-cfbb955823d4.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c5f20936-7960-4378-afa5-26bd915c1de4",
+            "Value": {
+                "id": "450044e4-2855-4d7b-96ca-6fdb6f0c296f",
+                "resourcePath": "sprites\\mega_StandShoot_hair\\mega_StandShoot_hair.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -1103,6 +1159,14 @@
             }
         },
         {
+            "Key": "d8fd78c7-40a5-45ec-b175-ac0a64e1fbfe",
+            "Value": {
+                "id": "2c6ee1de-8e84-49ca-8999-2c289e7cfc9e",
+                "resourcePath": "sprites\\mega_WalkShoot_hair\\mega_WalkShoot_hair.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "d9cdfb63-ffc3-4278-8fe5-ad140b0796bd",
             "Value": {
                 "id": "32a436c3-0297-487e-acb0-3adc854932c7",
@@ -1183,6 +1247,14 @@
             }
         },
         {
+            "Key": "eeec52e4-c076-4dad-bbd2-21d03103f819",
+            "Value": {
+                "id": "52bf7291-3d3a-45e0-8a00-1de62140ca83",
+                "resourcePath": "sprites\\mega_GetUp_hair\\mega_GetUp_hair.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "f1e85d1d-f8dd-48be-9818-bca813b9886c",
             "Value": {
                 "id": "d02fc116-9895-4e6d-abef-f21b740296c7",
@@ -1244,6 +1316,14 @@
                 "id": "8a7d1ba6-0ad4-4797-b9fd-ff2ae9243713",
                 "resourcePath": "views\\f8f9a86b-27f0-452a-864c-5dc287d16006.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f94e2bfa-1f20-4f29-955a-758009273012",
+            "Value": {
+                "id": "785d64eb-8159-450e-84e6-24ad0cfbdd12",
+                "resourcePath": "sprites\\mega_JumpShoot_hair\\mega_JumpShoot_hair.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
