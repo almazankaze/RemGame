@@ -263,6 +263,14 @@
             }
         },
         {
+            "Key": "32104fc6-d2a9-46cd-9bea-d73bf5534fd1",
+            "Value": {
+                "id": "112e77cd-5acb-44fd-88cb-58ff4b411ba1",
+                "resourcePath": "sprites\\mega_hurt_hair\\mega_hurt_hair.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "321ce160-f880-41c8-b3a4-4acf71203e62",
             "Value": {
                 "id": "b528cdf6-a97e-4bcf-912c-903c59ebc4bc",
@@ -379,6 +387,14 @@
             "Value": {
                 "id": "fc413223-d58c-4f4a-bef4-2163c54495ee",
                 "resourcePath": "sprites\\sprEnergy2\\sprEnergy2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "40757bca-0a1e-4f27-9184-16b97602fc24",
+            "Value": {
+                "id": "5ec50fa5-b36e-4871-acf5-eb74171a3a52",
+                "resourcePath": "sprites\\mega_standShoot_frame\\mega_standShoot_frame.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -831,6 +847,22 @@
             }
         },
         {
+            "Key": "99fe496e-d7ae-41fe-8d56-7bdf78d37248",
+            "Value": {
+                "id": "dd252122-c492-4060-86f1-1b801926169c",
+                "resourcePath": "sprites\\mega_walkShoot_frame\\mega_walkShoot_frame.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "9b7a9347-7ca2-4954-b038-51438d36be68",
+            "Value": {
+                "id": "1d0c263e-e01b-42e2-807f-8263baa505f7",
+                "resourcePath": "sprites\\mega_climbShoot_frame\\mega_climbShoot_frame.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "9ba94e0d-436a-4d39-80d0-78d4ae387565",
             "Value": {
                 "id": "83fd1b5b-83c7-467b-ad31-a8296b061bdb",
@@ -1012,6 +1044,14 @@
                 "id": "b659a0ea-d5b4-479f-8e73-1aa62525e048",
                 "resourcePath": "views\\c382b955-3a0c-41b4-a721-cfbb955823d4.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c4267375-2461-40ae-bf1f-1fc0cc7a9356",
+            "Value": {
+                "id": "35d91724-a009-4dfa-9c91-bc92ae7f27fb",
+                "resourcePath": "sprites\\mega_jumpShoot_frame\\mega_jumpShoot_frame.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
